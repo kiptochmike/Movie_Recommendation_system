@@ -1,4 +1,6 @@
 # Movie Recommendation System
+## Author:
+### Mike Kiptoch 
 
 ## Overview
 This project aims to construct a movie recommendation system that offers personalized suggestions to users based on their movie ratings. Leveraging machine learning algorithms, the system analyzes user preferences and movie similarities to generate curated lists of the top 5 movie recommendations for each user.
